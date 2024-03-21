@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.exe.config
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.exe
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.pdb
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.exe
+C:\Users\User\Desktop\C_sharp\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.pdb
